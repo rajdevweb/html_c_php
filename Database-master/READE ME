@@ -1,0 +1,18 @@
+student table 
+exam table
+Office table
+Employee table
+Incentive table 
+Salesperson
+Customers
+ 
+task-1 particular records data Tom;
+show records data from uemployee First_name, Salary, Joining_date
+First_name show ascendign and Salary descending;
+Like '%J';
+>=3000 Incentive amount greater than 3000;
+Trigger ???????
+-----------------------
+Salesperson and Customer
+between 0.10 and 0.12.
+
